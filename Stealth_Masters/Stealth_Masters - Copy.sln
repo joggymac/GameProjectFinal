@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stealth_Masters - Copy", "Assembly-CSharp.csproj", "{4F554410-7A76-AD2C-7C6F-653847C47A2A}"
+EndProject
+Project("{516BC3C8-2C3C-810A-474B-97F3543C298B}") = "Stealth_Masters - Copy", "Assembly-UnityScript-firstpass.unityproj", "{30DD89FA-A33D-26D8-4CF9-FFB996BEEF46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F554410-7A76-AD2C-7C6F-653847C47A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F554410-7A76-AD2C-7C6F-653847C47A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F554410-7A76-AD2C-7C6F-653847C47A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F554410-7A76-AD2C-7C6F-653847C47A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30DD89FA-A33D-26D8-4CF9-FFB996BEEF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30DD89FA-A33D-26D8-4CF9-FFB996BEEF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30DD89FA-A33D-26D8-4CF9-FFB996BEEF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30DD89FA-A33D-26D8-4CF9-FFB996BEEF46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

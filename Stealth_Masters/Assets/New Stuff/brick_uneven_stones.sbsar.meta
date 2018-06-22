@@ -1,0 +1,82 @@
+fileFormatVersion: 2
+guid: 51c9e52f11afa974d9cc3b08bbbab15a
+timeCreated: 1528695772
+licenseType: Free
+SubstanceImporter:
+  externalObjects: {}
+  serializedVersion: 5
+  materialInstances:
+  - serializedVersion: 16
+    name: brick_uneven_stones
+    prototypeName: brick_uneven_stones
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs: []
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 0
+    materialProperties:
+      serializedVersion: 3
+      texEnvs: []
+      floats: []
+      colors: []
+    textureParameters:
+    - name: brick_uneven_stones_basecolor
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: brick_uneven_stones_normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: brick_uneven_stones_metallic
+      alphaSource: 7
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: brick_uneven_stones_ambient_occlusion
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: brick_uneven_stones_height
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 583061823
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 583061797
+    - shaderProp: _MetallicGlossMap
+      material: {instanceID: 0}
+      baseUID: 583061795
+    - shaderProp: _OcclusionMap
+      material: {instanceID: 0}
+      baseUID: 583061655
+    - shaderProp: _ParallaxMap
+      material: {instanceID: 0}
+      baseUID: 583061672
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 0
+      loadingBehavior: 1
+  deletedPrototypes: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
